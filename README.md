@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin.
-- 👀 I’m interested in ethical hacking & Cydia.
+- 👀 I’m interested in Cydia.
 - 🌱 I’m currently learning how to play the guitar.
 - 💞️ I’m reposting memes & stuff on Twitter.
 - 📫 How to reach me: [@mirrordev](https://www.linktr.ee/jvestman)
