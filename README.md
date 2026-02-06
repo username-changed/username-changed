@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin.
 - 👀 I’m interested in Cydia.
-- 🌱 I’m currently learning how to play the guitar.
+- 🌱 I’m currently learning how to play guitar.
 - 💞️ I’m reposting stuff on Twitter.
 - 📫 How to reach me: [@J-VEST](https://github.com/J-VEST)
 - ⚡ Fun fact: I'm schizophrenic.
