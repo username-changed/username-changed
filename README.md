@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cydia.
 - 🌱 I’m currently learning how to play the guitar.
 - 💞️ I’m reposting stuff on Twitter.
-- 📫 How to reach me: [@mirrordev](https://www.linktr.ee/jvestman)
+- 📫 How to reach me: [@J-VEST](https://github.com/J-VEST)
 - ⚡ Fun fact: I'm schizophrenic.
 
 <!---
