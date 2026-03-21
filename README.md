@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Justin.
 - 👀 I’m interested in Cydia.
-- 🌱 I’m currently learning how to play guitar.
-- 💞️ I’m reposting stuff on Twitter.
+- 🌱 I’m currently learning how to play piano.
+- 💞️ I’m posting stuff on Twitch.
 - 📫 How to reach me: [@J-VEST](https://github.com/J-VEST)
-- ⚡ Fun fact: I'm schizophrenic.
+- ⚡ Fun fact: The earth is flat.
 
 <!---
 MINSHFOX/MINSHFOX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
