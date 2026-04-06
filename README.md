@@ -1,3 +1,4 @@
+- 👋 Hello.
 - 👀 I’m interested in Cydia.
 - 🌱 I’m currently learning how to play piano.
 - 📺 I’m watching stuff on Twitch.
