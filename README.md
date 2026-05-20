@@ -1,7 +1,7 @@
 - 👋 Hello.
 - 👀 I’m interested in Cydia.
 - 🌱 I’m learning how to play piano.
-- 🍎 Finder: [@J-VEST](https://github.com/J-VEST)
+- 🍏 Finder: [@J-VEST](https://github.com/J-VEST)
 - ⚡ Fun fact: The Earth is flat.
 
 <!---
