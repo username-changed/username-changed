@@ -1,8 +1,8 @@
 - 👋 Hello.
-- 👀 I’m interested in Cydia.
-- 🌱 I’m learning how to play piano.
+- 👀 Interestingly enough, ZZ Top’s only clean-shaven member is drummer Frank Beard. 
+- 🌱 Learn The Wind Crys Mary by Jimi Hendrix.
 - 🍏 Finder: [@J-VEST](https://github.com/J-VEST)
-- ⚡ Fun fact: The Earth is flat.
+- ⚡ Fun fact: Lobsters have blue blood.
 
 <!---
 MINSHFOX/MINSHFOX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
