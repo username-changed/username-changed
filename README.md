@@ -1,6 +1,4 @@
 - 👋 Hello.
-- 👀 ZZ Top’s only clean-shaven member is drummer Frank Beard. 
-- 🌱 Learn The Wind Cries Mary by Jimi Hendrix.
 - 🍏 Finder: [@J-VEST](https://github.com/J-VEST)
 - ⚡ Fun fact: Lobsters have blue blood.
 
